@@ -45,12 +45,12 @@
 
 + 수강 중
   +  스프링 데이터 JPA
-  +  우리를 위한 프로그래밍 : 파이썬 중금(Infleanr Original)
+  +  우리를 위한 프로그래밍 : 파이썬 중급(Infleanr Original)
 
 
 
 ## 👋 포트폴리오
-+ ChickenToDoList([클릭](https://github.com/chickenchickenlove/ChickenToDoListApplication))
++ ChickenToDoList([[사이트 링크]](http://52.79.222.25:8080/) // [[Git]](https://github.com/chickenchickenlove/ChickenToDoListApplication))
   + 개인이 작성한 To Do List를 자신만 볼 수 있고, 원한다면 다른 사람과 공유할 수 있는 기능을 추가한 To Do List입니다
   + 강의에서 배웠던 스프링의 블랙박스, AOP, JPA를 정확하게 알고 적용하고자 노력했습니다.
   + 토이 프로젝트를 하며 트랜잭션의 격리수준과 락, 동시성 문제와 더불어 JPA의 리스너, 스프링의 세션 리스너, 스케쥴러 등의 블랙박스를 더 공부해 볼 수 있었습니다.
