@@ -45,7 +45,9 @@
 
 + 수강 중
   +  스프링 데이터 JPA
-  +  우리를 위한 프로그래밍 : 파이썬 중급(Infleanr Original)
+  +  우리를 위한 프로그래밍 : 파이썬 중급(Infleanr Original
+  +  스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch
+  
 
 
 
