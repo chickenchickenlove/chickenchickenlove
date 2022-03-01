@@ -49,7 +49,7 @@
 
 
 
-## 👋 포트폴리오
+## 👋 Toy Project
 + ChickenToDoList([[사이트 링크]](http://52.79.222.25:8080/) // [[Git]](https://github.com/chickenchickenlove/ChickenToDoListApplication))
   + 개인이 작성한 To Do List를 자신만 볼 수 있고, 원한다면 다른 사람과 공유할 수 있는 기능을 추가한 To Do List입니다
   + 강의에서 배웠던 스프링의 블랙박스, AOP, JPA를 정확하게 알고 적용하고자 노력했습니다.
@@ -57,6 +57,7 @@
 
 + 공공 데이터 API를 이용한 토이 프로젝트 (3월 중순 이후 실행 계획)
   + 공공 데이터 API를 이용해 필요한 데이터를 서빙 및 배포를 해서 사람들이 실제로 정보성으로 사용할 수 있는 프로젝트를 해보고자 합니다. 
+  + Spring Batch를 이용한 대용량 Batch Process를 구현하고자 합니다. (Spring Batch 학습 후, 토이 프로젝트 구현) 
   
   
 
