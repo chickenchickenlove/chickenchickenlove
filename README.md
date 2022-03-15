@@ -27,7 +27,7 @@
 
 
 
-## 👋BACKEND STUDY <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/>
+## 👋BACKEND STUDY <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/><img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 인프런의 김영한님 강의를 보며 웹 개발과 백엔드에 대한 공부를 해왔습니다.<br>
 영한님의 모든 강의를 수강했고, 지금부터는 직접 토이 프로젝트를 수행하며 필요한 부분을 찾아서 공부하고자 합니다. 
