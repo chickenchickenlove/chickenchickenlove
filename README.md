@@ -27,7 +27,7 @@
 
 
 
-## 👋BACKEND STUDY <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/><img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+## 👋BACKEND STUDY <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/><img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
 
 인프런의 김영한님 강의를 보며 웹 개발과 백엔드에 대한 공부를 해왔습니다.<br>
 영한님의 모든 강의를 수강했고, 지금부터는 직접 토이 프로젝트를 수행하며 필요한 부분을 찾아서 공부하고자 합니다. 
@@ -53,6 +53,7 @@
 
 ## 👋 Toy Project
 + ChickenToDoList([[사이트 링크]](http://52.79.222.25:8080/) // [[Git]](https://github.com/chickenchickenlove/ChickenToDoListApplication))
+  + <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/>
   + 개인이 작성한 To Do List를 자신만 볼 수 있고, 원한다면 다른 사람과 공유할 수 있는 기능을 추가한 To Do List입니다
   + 강의에서 배웠던 스프링의 블랙박스, AOP, JPA를 정확하게 알고 적용하고자 노력했습니다.
   + 토이 프로젝트를 하며 트랜잭션의 격리수준과 락, 동시성 문제와 더불어 JPA의 리스너, 스프링의 세션 리스너, 스케쥴러 등의 블랙박스를 더 공부해 볼 수 있었습니다.
