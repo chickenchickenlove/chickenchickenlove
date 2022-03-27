@@ -70,17 +70,17 @@
   
     Techs that i've used at least once and familiar
   
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=plastic&logo=Spring&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/>
 
     Techs that i've used at least once but unfamiliar
 
 
-<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><br><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon AWS&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/MY SQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/><br><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon AWS&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/MY SQL-4479A1?style=plastic&logo=MYSQL&logoColor=white"/>
 
 </div>
 
