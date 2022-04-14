@@ -40,13 +40,17 @@
   +  자바 ORM 표준 JPA 프로그래밍 - 기본편
   +  실전 스프링부트와 JPA 활용1 - 웹 어플리케이션 개발
   +  실전 스프링부트와 JPA 활용2 - 백엔드 웹 개발
-  +  실전 QUERY DSL
   +  모든 개발자를 위한 HTTP 웹 기본 지식
+  
 
 + 수강 중
   +  스프링 데이터 JPA
-  +  우리를 위한 프로그래밍 : 파이썬 중급(Infleanr Original
+  +  실전 QUERY DSL
+  +  스프링 DB 1편 = 데이터 접근 핵심 원리
   +  스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch
+  +  스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security
+  +  우리를 위한 프로그래밍 : 파이썬 중급(Infleanr Original)
+  +  고수가 되는 파이썬 : 동시성과 병렬성 문법 배우기 (멀티 쓰레딩, 멀티 프로세스)
   
 
 
