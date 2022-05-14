@@ -41,18 +41,19 @@
   +  실전 스프링부트와 JPA 활용1 - 웹 어플리케이션 개발
   +  실전 스프링부트와 JPA 활용2 - 백엔드 웹 개발
   +  모든 개발자를 위한 HTTP 웹 기본 지식
+  +  스프링 DB 1편 - 데이터 접근 핵심 원리
   
 
 + 수강 중
   +  스프링 데이터 JPA
   +  실전 QUERY DSL
-  +  스프링 DB 1편 = 데이터 접근 핵심 원리
   +  스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch
   +  스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security
   +  우리를 위한 프로그래밍 : 파이썬 중급(Infleanr Original)
   +  고수가 되는 파이썬 : 동시성과 병렬성 문법 배우기 (멀티 쓰레딩, 멀티 프로세스)
   
 
+# PROJECT
 
 
 ## 👋 Toy Project
@@ -67,6 +68,13 @@
   + Spring Batch를 이용한 대용량 Batch Process를 구현하고자 합니다. (Spring Batch 학습 후, 토이 프로젝트 구현) 
   
   
+## 👋 Company Project <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/>
++ 사업부에서 사용할 WEB 프로젝트를 개발하고 있습니다.
++ Front-End / Back-End 나누어 개발중이며, Back-End를 맡아서 개발하고 있습니다. 
++ 사용 BackeEnd 기술 스택은 다음과 같으며 현재는 SSO를 통한 인증 및 보안 처리를 위해 Spring Security를 공부하고 있습니다. 
++ TDD를 지향하며 개발하고 있습니다. 이를 통해 기능 확장 및 변경에서도 단단하게 동작할 수 있는 프로그램을 개발하고자 합니다. 
++ 서비스 확장 및 트래픽 증가 시, MSA 및 Redis등을 공부해서 적용할 계획을 가지고 있습니다. 
+
 
   
 # ⚡**TECH STACK**⚡
