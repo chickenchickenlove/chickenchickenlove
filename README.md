@@ -1,10 +1,10 @@
 ## 👋오랫동안 꿈을 그리던 사람은 마침내 그 꿈을 닮아간다. (앙드레말로) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchickenchickenlove&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-개발을 즐겁게 할 수 있다는 것을 알게 되어, 개발자로 커리어를 전환하고자 합니다. <br>
-21년 3월부터 신입 백엔드 개발자가 되기 위해 개발 공부를 하고 있습니다. <br>
-밥 먹고 일하는 시간을 제외하면 개발 공부에만 집중하고 있습니다 <br>
-아래 세 가지를 지키는 개발 습관을 가지고자 노력하고 있습니다.<br>
-이 블로그에 공부한 내용을 정리해서 올리고있습니다. (https://ojt90902.tistory.com/)
+
+주니어 서버 개발자로 공부 및 일하고 있습니다. 
+공부하고 기록하고 공유하는 것을 좋아합니다.
+가급적이면 매일 조금씩 개발 공부를 하고 있습니다. 
+블로그에 공부한 내용을 정리해서 올리고있습니다. (https://ojt90902.tistory.com/)
 <br/>
 
 + 확장 가능하고 유연한 코드를 작성한다
