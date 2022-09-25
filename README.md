@@ -1,7 +1,7 @@
-## 👋오랫동안 꿈을 그리던 사람은 마침내 그 꿈을 닮아간다. (앙드레말로) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchickenchickenlove&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 주니어 서버 개발자 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchickenchickenlove&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-주니어 서버 개발자로 공부 및 일하고 있습니다. 
+주니어 서버 개발자로 일하고 있으며, 잘 일하기위해 개발 공부를 하고 있습니다. 
 공부하고 기록하고 공유하는 것을 좋아합니다.
 가급적이면 매일 조금씩 개발 공부를 하고 있습니다. 
 블로그에 공부한 내용을 정리해서 올리고있습니다. (https://ojt90902.tistory.com/)
@@ -32,29 +32,13 @@
 
 ## 👋BACKEND STUDY <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/><img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
 
-인프런의 김영한님 강의를 보며 웹 개발과 백엔드에 대한 공부를 해왔습니다.<br>
-영한님의 모든 강의를 수강했고, 지금부터는 직접 토이 프로젝트를 수행하며 필요한 부분을 찾아서 공부하고자 합니다. 
+2021.10 ~ 2022.03 
+인프런의 김영한님, 정수원님의 강의를 보며 웹 개발과 백엔드에 공부를 해왔습니다.
+Spring 진영을 주로 공부했으며 Spring MVC, Spring Boot, Spring Security, Spring Batch, Spring Data JPA등을 공부했습니다. 
 
-+ 완료한 강의
-  +  스프링 핵심 원리 기본
-  +  스프링 핵심 원리 고급
-  +  스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
-  +  스프링 MVC 2편 - 백엔드 웹 개발 활용 기술
-  +  자바 ORM 표준 JPA 프로그래밍 - 기본편
-  +  실전 스프링부트와 JPA 활용1 - 웹 어플리케이션 개발
-  +  실전 스프링부트와 JPA 활용2 - 백엔드 웹 개발
-  +  모든 개발자를 위한 HTTP 웹 기본 지식
-  +  스프링 DB 1편 - 데이터 접근 핵심 원리
-  
+2022.08 ~ 
+erlang, docker, k8s, helm, Kafka, Kafka stream, kafka connector, kafka process, ksqlDB, 파이썬, 쉘 스크립팅 등을 공부하고 있습니다. 
 
-+ 수강 중
-  +  스프링 데이터 JPA
-  +  실전 QUERY DSL
-  +  스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch
-  +  스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security
-  +  우리를 위한 프로그래밍 : 파이썬 중급(Infleanr Original)
-  +  고수가 되는 파이썬 : 동시성과 병렬성 문법 배우기 (멀티 쓰레딩, 멀티 프로세스)
-  
 
 # PROJECT
 
@@ -68,7 +52,8 @@
 
 + 공공 데이터 API를 이용한 토이 프로젝트 (3월 중순 이후 실행 계획)
   + 공공 데이터 API를 이용해 필요한 데이터를 서빙 및 배포를 해서 사람들이 실제로 정보성으로 사용할 수 있는 프로젝트를 해보고자 합니다. 
-  + Spring Batch를 이용한 대용량 Batch Process를 구현하고자 합니다. (Spring Batch 학습 후, 토이 프로젝트 구현) 
+  + Spring Batch를 이용한 대용량 Batch Process를 구현하고자 합니다. (Spring Batch 학습 후, 토이 프로젝트 구현)
+  + 취업 이후 시간을 내지 못해 해보지 못하고 있습니다. 추후 구현하고자 합니다.
   
   
 ## 👋 Company Project <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/>
@@ -77,13 +62,14 @@
 + 사용 BackeEnd 기술 스택은 다음과 같으며 현재는 SSO를 통한 인증 및 보안 처리를 위해 Spring Security를 공부하고 있습니다. 
 + TDD를 지향하며 개발하고 있습니다. 이를 통해 기능 확장 및 변경에서도 단단하게 동작할 수 있는 프로그램을 개발하고자 합니다. 
 + 서비스 확장 및 트래픽 증가 시, MSA 및 Redis등을 공부해서 적용할 계획을 가지고 있습니다. 
++ <b> Spring Boot, Spring Security, Spring Batch, JPA를 이용해서 사업부에서 사용할 Web 기반 회원관리 시스템을 혼자 개발했습니다. 이후 BootStrap과 Thymeleaf를 이용한 백오피스 개발(관리자 페이지)까지 개발한 후 인수인계 작업까지 완료했었습니다. </b>
 
 
   
 # ⚡**TECH STACK**⚡
 <div align="center">
   
-    Techs that i've used at least once 
+    Techs that i've used at least once (잘하진 않아요!) 
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"/><img src="https://img.shields.io/badge/erlang-A90533?style=plastic&logo=erlang&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=plastic&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/> <br>
