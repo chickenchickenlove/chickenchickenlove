@@ -26,45 +26,6 @@
 
 
 <br/>
-
-
-
-
-## 👋BACKEND STUDY <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/><img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
-
-2021.10 ~ 2022.03 
-인프런의 김영한님, 정수원님의 강의를 보며 웹 개발과 백엔드에 공부를 해왔습니다.
-Spring 진영을 주로 공부했으며 Spring MVC, Spring Boot, Spring Security, Spring Batch, Spring Data JPA등을 공부했습니다. 
-
-2022.08 ~ 
-erlang, docker, k8s, helm, Kafka, Kafka stream, kafka connector, kafka process, ksqlDB, 파이썬, 쉘 스크립팅 등을 공부하고 있습니다. 
-
-
-# PROJECT
-
-
-## 👋 Toy Project
-+ ChickenToDoList([[사이트 링크]](http://52.79.222.25:8080/) // [[Git]](https://github.com/chickenchickenlove/ChickenToDoListApplication))
-  + <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/>
-  + 개인이 작성한 To Do List를 자신만 볼 수 있고, 원한다면 다른 사람과 공유할 수 있는 기능을 추가한 To Do List입니다
-  + 강의에서 배웠던 스프링의 블랙박스, AOP, JPA를 정확하게 알고 적용하고자 노력했습니다.
-  + 토이 프로젝트를 하며 트랜잭션의 격리수준과 락, 동시성 문제와 더불어 JPA의 리스너, 스프링의 세션 리스너, 스케쥴러 등의 블랙박스를 더 공부해 볼 수 있었습니다.
-
-+ 공공 데이터 API를 이용한 토이 프로젝트 (3월 중순 이후 실행 계획)
-  + 공공 데이터 API를 이용해 필요한 데이터를 서빙 및 배포를 해서 사람들이 실제로 정보성으로 사용할 수 있는 프로젝트를 해보고자 합니다. 
-  + Spring Batch를 이용한 대용량 Batch Process를 구현하고자 합니다. (Spring Batch 학습 후, 토이 프로젝트 구현)
-  + 취업 이후 시간을 내지 못해 해보지 못하고 있습니다. 추후 구현하고자 합니다.
-  
-  
-## 👋 Company Project <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=plastic&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white"/><img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/>
-+ 사업부에서 사용할 WEB 프로젝트를 개발하고 있습니다.
-+ Front-End / Back-End 나누어 개발중이며, Back-End를 맡아서 개발하고 있습니다. 
-+ 사용 BackeEnd 기술 스택은 다음과 같으며 현재는 SSO를 통한 인증 및 보안 처리를 위해 Spring Security를 공부하고 있습니다. 
-+ TDD를 지향하며 개발하고 있습니다. 이를 통해 기능 확장 및 변경에서도 단단하게 동작할 수 있는 프로그램을 개발하고자 합니다. 
-+ 서비스 확장 및 트래픽 증가 시, MSA 및 Redis등을 공부해서 적용할 계획을 가지고 있습니다. 
-+ <b> Spring Boot, Spring Security, Spring Batch, JPA를 이용해서 사업부에서 사용할 Web 기반 회원관리 시스템을 혼자 개발했습니다. 이후 BootStrap과 Thymeleaf를 이용한 백오피스 개발(관리자 페이지)까지 개발한 후 인수인계 작업까지 완료했었습니다. </b>
-
-
   
 # ⚡**TECH STACK**⚡
 <div align="center">
