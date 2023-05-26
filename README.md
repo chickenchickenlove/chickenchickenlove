@@ -14,6 +14,13 @@
 <a href="https://ojt90902.tistory.com"><img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=Bloglovin&logoColor=#FF8800"/></a>
 <a href="https://github.com/chickenchickenlove"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=#181717"/></a>
 - They are related with me.
+- I like these sentences.
+  ```
+  Little more than before.
+  If you are afraid of falling, there is no chance to fly.
+  Show and prove.
+  Never assume anything.
+  ```
 
 
 
