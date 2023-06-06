@@ -22,6 +22,19 @@
   Never assume anything.
   ```
 
+  #Skills
+  ```
+  DESCRIPTION : 'I have tried the above techniques more than once. but it does not mean that i'm professional that techs'
+  
+  skils = {
+    'Language' : ['python', 'java'],
+    'Related with Spring' : ['Spring Boot', 'Spring Security', 'Spring Batch', 'JPA, 'Query DSL'],
+    'Related with HTML' : ['thymeleaf', 'tailwind-css', 'bootstrap']
+    'Related with Kafka' : ['Kafka', 'Kafka Connect', 'Schema Registry', 'kafka streams', 'ksqlDB']
+    'Related with Cloud' : ['docker', 'docker-compose', 'kubernetes', 'helm', 'prometheus', 'grafana']
+  }
+  ```
+  
 
 
 ## 👋Problem Solving <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=#3776AB"/>
