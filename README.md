@@ -28,10 +28,32 @@
   
   skils = {
     'Language' : ['python', 'java'],
-    'Related with Spring' : ['Spring Boot', 'Spring Security', 'Spring Batch', 'JPA, 'Query DSL'],
-    'Related with HTML' : ['thymeleaf', 'tailwind-css', 'bootstrap']
-    'Related with Kafka' : ['Kafka', 'Kafka Connect', 'Schema Registry', 'kafka streams', 'ksqlDB']
-    'Related with Cloud' : ['docker', 'docker-compose', 'kubernetes', 'helm', 'prometheus', 'grafana']
+    'Related with Spring' : [
+                            'Spring Boot', 
+                            'Spring Security', 
+                            'Spring Batch', 
+                            'JPA, 
+                            'Query DSL'
+                            ],
+    'Related with HTML' : [
+                          'thymeleaf', 
+                          'tailwind-css', 
+                          'bootstrap'
+                          ],
+    'Related with Kafka' : [
+                            'Kafka', 
+                            'Kafka Connect',
+                            'Schema Registry',
+                            'kafka streams',
+                            'ksqlDB'
+                            ]
+    'Related with Cloud' : [
+                            'docker', 
+                            'docker-compose', 
+                            'kubernetes', 
+                            'helm', 
+                            'prometheus', 
+                            'grafana']
   }
   ```
   
