@@ -53,7 +53,9 @@
                             'kubernetes', 
                             'helm', 
                             'prometheus', 
-                            'grafana']
+                            'grafana',
+                            'fluent-bit'
+                            ]
   }
   ```
   
