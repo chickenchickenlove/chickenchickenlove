@@ -43,7 +43,7 @@
                             'Schema Registry',
                             'kafka streams',
                             'ksqlDB'
-                            ]
+                            ],
     'Related with Cloud' : [
                             'docker', 
                             'docker-compose', 
