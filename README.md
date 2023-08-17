@@ -63,7 +63,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chickenchickenlove)](https://solved.ac/chickenchickenlove)
 <br/>
-- I did problem solving at `sovled.ac`
+- I did problem solving at `sovled.ac`.
 <br/>
   
 
