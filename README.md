@@ -69,7 +69,8 @@
 
 ## Blog History
 - 
-![SVG Image](https://5e70-221-147-154-180.ngrok-free.app/hello)
+<img src="https://5e70-221-147-154-180.ngrok-free.app/hello"/>
+
 
 
 </div>
