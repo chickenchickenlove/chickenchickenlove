@@ -65,7 +65,11 @@
 <br/>
 - I did problem solving at `sovled.ac`.
 <br/>
-  
+
+
+## Books and Lecture
+- '23.12 ~ : Learn you some erlang (https://learnyousomeerlang.com)
+- '23.11 ~ '23.12 : GOF Design Pattern (https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
 
 ## Blog History
 - 
