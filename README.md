@@ -4,7 +4,7 @@
 
 
 ## 👋 ChickenChickenLove [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchickenchickenlove&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  ``` python
+  ```python
   # I like these sentences.
   Little more than before.
   If you are afraid of falling, there is no chance to fly.
@@ -21,7 +21,7 @@
                 '''
   
   skils = {
-    'Language' : ['python', 'java'],
+    'Language' : ['python', 'java', 'erlang'],
     'Related with Spring' : [
                             'Spring Boot', 
                             'Spring Security', 
@@ -74,7 +74,6 @@
 ## Blog History
 - 
 <img src="https://5e70-221-147-154-180.ngrok-free.app/hello"/>
-
 
 
 </div>
