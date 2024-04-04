@@ -68,8 +68,9 @@
 
 
 ## Contribute
-- [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
-- [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
+- `spring/spring-kafka` : [Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
+- `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
+- `mcirometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
 
 ## Books and Lecture
 - '23.12 ~ : Learn you some erlang (https://learnyousomeerlang.com)
