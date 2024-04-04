@@ -69,7 +69,7 @@
 
 ## Contribute
 - [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
-- [micro-metor/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
+- [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
 
 ## Books and Lecture
 - '23.12 ~ : Learn you some erlang (https://learnyousomeerlang.com)
