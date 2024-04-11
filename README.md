@@ -68,6 +68,7 @@
 
 
 ## Contribute
+- `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `spring/spring-kafka` : [Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
 - `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
