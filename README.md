@@ -71,12 +71,12 @@ public class ConfigurationForMe {
 
     @Bean
     public Me me() {
-        Set<String> languages = Set.of("Java", "Python", "erlang");
-        Set<String> springEcoSystem = Set.of("Spring Boot", "Spring MVC", "Spring Security", "Spring Batch", "Spring Data JPA");
-        Set<String> databases = Set.of("MySQL");
-        Set<String> display = Set.of("thymeleaf", "tailwind-css");
-        Set<String> kafkaEcoSystem = Set.of("Kafka", "kafka-connect", "schema-registry", "kafka-streams", "ksqlDB");
-        Set<String> cloudFriendly = Set.of("docker", "docker-compose", "kubernetes", "helm", "prometheus", "istio", "fluent-bit");
+        final Set<String> languages = Set.of("Java", "Python", "erlang");
+        final Set<String> springEcoSystem = Set.of("Spring Boot", "Spring MVC", "Spring Security", "Spring Batch", "Spring Data JPA");
+        final Set<String> databases = Set.of("MySQL");
+        final Set<String> display = Set.of("thymeleaf", "tailwind-css");
+        final Set<String> kafkaEcoSystem = Set.of("Kafka", "kafka-connect", "schema-registry", "kafka-streams", "ksqlDB");
+        final Set<String> cloudFriendly = Set.of("docker", "docker-compose", "kubernetes", "helm", "prometheus", "istio", "fluent-bit");
 
         return new Me(languages, 
                 springEcoSystem,
