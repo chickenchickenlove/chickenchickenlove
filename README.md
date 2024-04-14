@@ -13,50 +13,80 @@
   ```
 
 ## Skills
-  ```python
-  DESCRIPTION : '''
-                I have tried the above techniques more than once. but it does not mean that i'm professional that techs.
-                but i always try to study to improve myself.
-                if i have free time to complain, i code instead.
-                '''
-  
-  skils = {
-    'Language' : ['python', 'java', 'erlang'],
-    'Related with Spring' : [
-                            'Spring Boot', 
-                            'Spring Security', 
-                            'Spring Batch', 
-                            'JPA', 
-                            'Query DSL'
-                            ],
-    'Database' : [
-                  'MySQL'
-                 ],  
-    'Related with HTML' : [
-                          'thymeleaf', 
-                          'tailwind-css', 
-                          'bootstrap'
-                          ],
-    'Related with Kafka' : [
-                            'Kafka', 
-                            'Kafka Connect',
-                            'Schema Registry',
-                            'kafka streams',
-                            'ksqlDB'
-                            ],
-    'Related with Cloud' : [
-                            'docker', 
-                            'docker-compose', 
-                            'kubernetes', 
-                            'helm', 
-                            'prometheus', 
-                            'grafana',
-                            'fluent-bit'
-                            ]
-  }
-  ```
-  
 
+```java
+
+/**
+ * I have tried the above techniques more than once.
+ * But it does not mean that i'm professional that techs.
+ * But i always try to study to improve myself.
+ * If i have free time to complain, i code instead.
+ */
+
+public class Me implements SmartLifecycle {
+
+    private final Set<String> languages;
+    private final Set<String> springEchoSystem;
+    private final Set<String> display;
+    private final Set<String> databases;
+    private final Set<String> kafkaEchoSystem;
+    private final Set<String> cloudFriendly;
+
+    public Me(Set<String> languages,
+              Set<String> springEchoSystem,
+              Set<String> display,
+              Set<String> databases,
+              Set<String> kafkaEchoSystem,
+              Set<String> cloudFriendly) {
+        this.languages = languages;
+        this.springEchoSystem = springEchoSystem;
+        this.display = display;
+        this.databases = databases;
+        this.kafkaEchoSystem = kafkaEchoSystem;
+        this.cloudFriendly = cloudFriendly;
+    }
+
+    @Override
+    public void start() {
+        System.out.println("Since 2022, i started to study to code. ");
+    }
+
+
+    @Override
+    public boolean isRunning() {
+        return true;
+    }
+
+    @Override
+    public String toString() {
+        return "I'm not the person who is good at coding, " +
+                "but i always try to be better man little more than before. " +
+                "I'm interested in contributing to opensource to learn about " +
+                "good architecture and code as well. ";
+    }
+}
+
+@Configuration
+public class ConfigurationForMe {
+
+    @Bean
+    public Me me() {
+        Set<String> languages = Set.of("Java", "Python", "erlang");
+        Set<String> springEcoSystem = Set.of("Spring Boot", "Spring MVC", "Spring Security", "Spring Batch", "Spring Data JPA");
+        Set<String> databases = Set.of("MySQL");
+        Set<String> display = Set.of("thymeleaf", "tailwind-css");
+        Set<String> kafkaEcoSystem = Set.of("Kafka", "kafka-connect", "schema-registry", "kafka-streams", "ksqlDB");
+        Set<String> cloudFriendly = Set.of("docker", "docker-compose", "kubernetes", "helm", "prometheus", "istio", "fluent-bit");
+
+        return new Me(languages, 
+                springEcoSystem,
+                databases,
+                display,
+                kafkaEcoSystem,
+                cloudFriendly);
+    }
+}
+```
 
 ## 👋Problem Solving <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=#3776AB"/>
 
