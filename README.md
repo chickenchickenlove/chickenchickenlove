@@ -51,6 +51,12 @@ public class Me implements SmartLifecycle {
         System.out.println("Since 2022, i started to study to code. ");
     }
 
+    @Override
+    public void stop() {
+        throw new NotImplementedException();
+    }
+
+
 
     @Override
     public boolean isRunning() {
