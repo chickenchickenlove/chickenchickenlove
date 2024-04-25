@@ -104,6 +104,7 @@ public class ConfigurationForMe {
 
 
 ## Contribute
+- `spring/spring-kafka` : [documantation - Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
 - `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `spring/spring-kafka` : [Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
