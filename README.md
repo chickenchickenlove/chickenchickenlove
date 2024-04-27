@@ -103,27 +103,29 @@ public class ConfigurationForMe {
 <br/>
 
 
-## Docs Contribute
+## Docs Contribute (Completed)
 - `spring/spring-kafka` : [Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
 - `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
 - `mcirometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
 
-## Code Contribute
+## Docs Contribute (-ing)
+- 
+
+## Code Contribute (Completed)
 - `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
-- `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `spring/spring-kafka` : [Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
+
+## Code Contribute (-ing)
+- `spring/spring-kafka` : [Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
+- `spring/spring-kafka` : [Introduce Confluent ParallelConsumer to Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3161)
+- `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
+- `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
+- `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 
 
 ## Books and Lecture
 - '23.12 ~ : Learn you some erlang (https://learnyousomeerlang.com)
 - '23.11 ~ '23.12 : GOF Design Pattern (https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
-
-## Blog History
-- 
-
-
-
-</div>
 
 
 <!--
