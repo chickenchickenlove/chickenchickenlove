@@ -121,6 +121,7 @@ public class ConfigurationForMe {
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
+- `apache/kafka` : [KAFKA-15951: MissingSourceTopicException should include topic names](https://github.com/apache/kafka/pull/15573)
 
 
 ## Books and Lecture
