@@ -119,6 +119,7 @@ public class ConfigurationForMe {
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 
 ## Code Contribute (-ing)
+- `apache/kafka` : [Unnecessary controller warning : "Loaded ZK migration state of NONE"](https://github.com/apache/kafka/pull/15926)
 - `spring/spring-kafka` : [Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
 - `spring/spring-kafka` : [Introduce Confluent ParallelConsumer to Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3161)
 - `spring/spring-kafka` : [Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
