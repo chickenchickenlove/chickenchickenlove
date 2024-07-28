@@ -124,6 +124,7 @@ public class ConfigurationForMe {
 ## Code Contribute (-ing)
 - `spring/spring-kafka` : [Introduce Confluent ParallelConsumer to Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3161)
 - `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
+- `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
 
 ## Books and Lecture
 - '23.12 ~ : Learn you some erlang (https://learnyousomeerlang.com)
