@@ -120,7 +120,7 @@ public class ConfigurationForMe {
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria`(-ing) : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
-- `line/centraldogma`(-ing) : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
+- `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
 
 
 ## Books and Lecture
