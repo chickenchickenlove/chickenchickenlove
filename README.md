@@ -117,6 +117,7 @@ public class ConfigurationForMe {
 - `spring/spring-kafka` : [Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
 - `spring/spring-kafka` : [Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
 - `spring/spring-kafka` (-ing) : [Introduce Confluent ParallelConsumer to Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3161)
+- `spring/spring-kafka` : [Internal Refactoring to improve code readability.](https://github.com/spring-projects/spring-kafka/pull/3422)
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria`(-ing) : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
