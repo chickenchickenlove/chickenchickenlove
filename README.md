@@ -118,7 +118,7 @@ public class ConfigurationForMe {
 - `spring/spring-kafka` : [Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
 - `spring/spring-kafka` (-ing) : [Introduce Confluent ParallelConsumer to Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3161)
 - `spring/spring-kafka` : [Internal Refactoring to improve code readability.](https://github.com/spring-projects/spring-kafka/pull/3422)
-- `spring/spring-kafka` : [Removed deade code from test codes.](https://github.com/spring-projects/spring-kafka/pull/3545)
+- `spring/spring-kafka` : [Removed dead code from test codes.](https://github.com/spring-projects/spring-kafka/pull/3545)
 - `spring/spring-kafka` (-ing): [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
 - `spring/spring-kafka` : [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
 - `spring/spring-kafka` : [No Issue : Refactor test codes and Remove useless full package name.](https://github.com/spring-projects/spring-kafka/pull/3551)
