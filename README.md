@@ -122,6 +122,7 @@ public class ConfigurationForMe {
 - `spring/spring-kafka` : [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
 - `spring/spring-kafka` : [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
 - `spring/spring-kafka` : [No Issue : Refactor test codes and Remove useless full package name.](https://github.com/spring-projects/spring-kafka/pull/3551)
+- `spring/spring-kafka` : [Fix flaky tests in async retry by using a latch instead of sleep.](https://github.com/spring-projects/spring-kafka/pull/3563)
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria`(-ing) : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
