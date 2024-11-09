@@ -126,6 +126,9 @@ public class ConfigurationForMe {
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
+- `line/armeria`(-ing) : [Support nested context paths.](https://github.com/line/armeria/pull/5846)
+- `line/armeria`(-ing) : [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
+- `line/armeria`(-ing) : [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
 - `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
 
 ## Issue Contribution
