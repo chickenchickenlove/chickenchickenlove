@@ -134,6 +134,7 @@ public class ConfigurationForMe {
 
 ## Issue Contribution
 - `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
+- `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
 
 ## Books and Lecture
 - '23.12 ~ : Learn you some erlang (https://learnyousomeerlang.com)
