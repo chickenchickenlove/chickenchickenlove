@@ -131,6 +131,7 @@ public class ConfigurationForMe {
 - `line/armeria`(-ing) : [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
 - `line/armeria`(-ing) : [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
 - `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
+- `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
 
 ## Issue Contribution
 - `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
