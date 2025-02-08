@@ -12,6 +12,42 @@
   Never assume anything.
   ```
 
+## Docs Contribution
+- `spring/spring-kafka` : [Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
+- `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
+- `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
+
+
+## Code Contribution
+- `apache/kafka` : [Unnecessary controller warning : "Loaded ZK migration state of NONE"](https://github.com/apache/kafka/pull/15926)
+- `apache/kafka` : [KAFKA-15951: MissingSourceTopicException should include topic names](https://github.com/apache/kafka/pull/15573)
+- `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
+- `spring/spring-kafka` : [Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
+- `spring/spring-kafka` : [Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
+- `spring/spring-kafka` : [Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
+- `spring/spring-kafka` (-ing) : [Introduce Confluent ParallelConsumer to Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3161)
+- `spring/spring-kafka` : [Internal Refactoring to improve code readability.](https://github.com/spring-projects/spring-kafka/pull/3422)
+- `spring/spring-kafka` : [Removed dead code from test codes.](https://github.com/spring-projects/spring-kafka/pull/3545)
+- `spring/spring-kafka` : [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
+- `spring/spring-kafka` : [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
+- `spring/spring-kafka` : [No Issue : Refactor test codes and Remove useless full package name.](https://github.com/spring-projects/spring-kafka/pull/3551)
+- `spring/spring-kafka` : [Fix flaky tests in async retry by using a latch instead of sleep.](https://github.com/spring-projects/spring-kafka/pull/3563)
+- `spring/spring-kafka` : [GH-3638: Fixes bug caused by race condition during handleAsyncFailure()](https://github.com/spring-projects/spring-kafka/pull/3639)
+- `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
+- `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
+- `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
+- `line/armeria`(-ing) : [Support nested context paths.](https://github.com/line/armeria/pull/5846)
+- `line/armeria`(-ing) : [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
+- `line/armeria`(-ing) : [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
+- `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
+- `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
+
+## Issue Contribution
+- `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
+- `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
+
+
+
 ## Skills
 
 ```java
@@ -103,39 +139,6 @@ public class ConfigurationForMe {
 <br/>
 
 
-## Docs Contribution
-- `spring/spring-kafka` : [Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
-- `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
-- `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
-
-
-## Code Contribution
-- `apache/kafka` : [Unnecessary controller warning : "Loaded ZK migration state of NONE"](https://github.com/apache/kafka/pull/15926)
-- `apache/kafka` : [KAFKA-15951: MissingSourceTopicException should include topic names](https://github.com/apache/kafka/pull/15573)
-- `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
-- `spring/spring-kafka` : [Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
-- `spring/spring-kafka` : [Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
-- `spring/spring-kafka` : [Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
-- `spring/spring-kafka` (-ing) : [Introduce Confluent ParallelConsumer to Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3161)
-- `spring/spring-kafka` : [Internal Refactoring to improve code readability.](https://github.com/spring-projects/spring-kafka/pull/3422)
-- `spring/spring-kafka` : [Removed dead code from test codes.](https://github.com/spring-projects/spring-kafka/pull/3545)
-- `spring/spring-kafka` : [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
-- `spring/spring-kafka` : [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
-- `spring/spring-kafka` : [No Issue : Refactor test codes and Remove useless full package name.](https://github.com/spring-projects/spring-kafka/pull/3551)
-- `spring/spring-kafka` : [Fix flaky tests in async retry by using a latch instead of sleep.](https://github.com/spring-projects/spring-kafka/pull/3563)
-- `spring/spring-kafka` : [GH-3638: Fixes bug caused by race condition during handleAsyncFailure()](https://github.com/spring-projects/spring-kafka/pull/3639)
-- `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
-- `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
-- `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
-- `line/armeria`(-ing) : [Support nested context paths.](https://github.com/line/armeria/pull/5846)
-- `line/armeria`(-ing) : [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
-- `line/armeria`(-ing) : [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
-- `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
-- `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
-
-## Issue Contribution
-- `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
-- `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
 
 ## Books and Lecture
 - '23.12 ~ : Learn you some erlang (https://learnyousomeerlang.com)
