@@ -19,13 +19,13 @@
 
 
 ## Code Contribution
-- `apache/kafka` : [Unnecessary controller warning : "Loaded ZK migration state of NONE"](https://github.com/apache/kafka/pull/15926)
+- `apache/kafka` : [KAFKA-16619: Unnecessary controller warning : "Loaded ZK migration state of NONE"](https://github.com/apache/kafka/pull/15926)
 - `apache/kafka` : [KAFKA-15951: MissingSourceTopicException should include topic names](https://github.com/apache/kafka/pull/15573)
 - `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
 - `spring/spring-kafka` : [GH-3020: Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
-- `spring/spring-kafka` : [Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
-- `spring/spring-kafka` : [Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
-- `spring/spring-kafka` (-ing) : [Introduce Confluent ParallelConsumer to Spring Kafka](https://github.com/spring-projects/spring-kafka/pull/3161)
+- `spring/spring-kafka` : [GH-2806: Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
+- `spring/spring-kafka` : [GH-3145: Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
+- `spring/spring-kafka` (-ing) : [GH-2381: Support kafka parallel-consumer](https://github.com/spring-projects/spring-kafka/pull/3161)
 - `spring/spring-kafka` : [Internal Refactoring to improve code readability.](https://github.com/spring-projects/spring-kafka/pull/3422)
 - `spring/spring-kafka` : [Removed dead code from test codes.](https://github.com/spring-projects/spring-kafka/pull/3545)
 - `spring/spring-kafka` : [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
