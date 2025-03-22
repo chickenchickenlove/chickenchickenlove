@@ -47,6 +47,12 @@
 - `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
 
 
+## Learn by implementing
+- Implement an HTTP/HTTP2 Server with a TCP Server (`python`) : https://github.com/chickenchickenlove/implment-http-client/tree/main/http_2
+- Implement SWIM Protocol (`erlang`) : https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/swim-portocol-implementation
+- Implement HyParView Protocol (`erlang`) : https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hybrid-partial-view-protocol-implementation
+- Implement Plumtree Protocol (`erlang`) : https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hyparview_and_plumtree_implementation
+- Implement RAFT Consensus algorithm (`erlang`) : https://github.com/chickenchickenlove/implement_raft_consensus
 
 ## Skills
 
