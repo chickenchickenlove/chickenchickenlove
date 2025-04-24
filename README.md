@@ -33,6 +33,7 @@
 - `spring/spring-kafka` : [No Issue : Refactor test codes and Remove useless full package name.](https://github.com/spring-projects/spring-kafka/pull/3551)
 - `spring/spring-kafka` : [Fix flaky tests in async retry by using a latch instead of sleep.](https://github.com/spring-projects/spring-kafka/pull/3563)
 - `spring/spring-kafka` : [GH-3638: Fixes bug caused by race condition during handleAsyncFailure()](https://github.com/spring-projects/spring-kafka/pull/3639)
+- `spring/spring-kafka` : [GH-3807: Necessity of KafkaHandler on single method class](https://github.com/spring-projects/spring-kafka/pull/3865)
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
