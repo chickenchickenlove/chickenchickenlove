@@ -34,6 +34,7 @@
 - `spring/spring-kafka` : [Fix flaky tests in async retry by using a latch instead of sleep.](https://github.com/spring-projects/spring-kafka/pull/3563)
 - `spring/spring-kafka` : [GH-3638: Fixes bug caused by race condition during handleAsyncFailure()](https://github.com/spring-projects/spring-kafka/pull/3639)
 - `spring/spring-kafka`(-ing) : [GH-3807: Necessity of KafkaHandler on single method class](https://github.com/spring-projects/spring-kafka/pull/3865)
+- `spring/spring-kafka`(-ing) : [GH-3869: Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/pull/3870)
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
@@ -46,6 +47,7 @@
 ## Issue Contribution
 - `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
 - `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
+- `spring/spring-kafka`: [Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/issues/3869)
 
 
 ## Learn by implementing
