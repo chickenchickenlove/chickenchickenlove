@@ -12,17 +12,14 @@
   Never assume anything.
   ```
 
-## Docs Contribution
-- `spring/spring-kafka` : [Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
-- `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
-- `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
-
-
-## Code Contribution
+## Open Source Contribution
 - `apache/kafka` : [KAFKA-16619: Unnecessary controller warning : "Loaded ZK migration state of NONE"](https://github.com/apache/kafka/pull/15926)
 - `apache/kafka` : [KAFKA-15951: MissingSourceTopicException should include topic names](https://github.com/apache/kafka/pull/15573)
+- `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
+- `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
 - `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
 - `spring/spring-kafka` : [GH-3020: Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
+- `spring/spring-kafka` : [Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
 - `spring/spring-kafka` : [GH-2806: Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
 - `spring/spring-kafka` : [GH-3145: Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
 - `spring/spring-kafka` (-ing) : [GH-2381: Support kafka parallel-consumer](https://github.com/spring-projects/spring-kafka/pull/3161)
