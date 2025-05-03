@@ -34,6 +34,7 @@
 - `spring/spring-kafka` : [GH-3869: Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/pull/3870)
 - `spring/spring-kafka`(-ing) : [GH-3067: Spring Kafka support multiple headers with same key.](https://github.com/spring-projects/spring-kafka/pull/3874)
 - `spring/spring-kafka`(-ing) : [GH-3873: Deprecate JUnit 4 utilities in the project.](https://github.com/spring-projects/spring-kafka/pull/3878)
+- `spring/spring-kafka`(-ing) : [GH-3880: The DefaultHandler resolves an incorrect value for the parameter annotated with @Header.](https://github.com/spring-projects/spring-kafka/pull/3881)
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
@@ -47,6 +48,8 @@
 - `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
 - `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
 - `spring/spring-kafka`: [Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/issues/3869)
+- `spring/spring-kafka`: [Add cache to optimize header match performance.](https://github.com/spring-projects/spring-kafka/issues/3879)
+- `spring/spring-kafka`: [The DefaultHandler resolves an incorrect value for the parameter annotated with @Header.](https://github.com/spring-projects/spring-kafka/issues/3880)
 
 
 ## Learn by implementing
