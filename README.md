@@ -33,7 +33,7 @@
 - `spring/spring-kafka` : [GH-3638: Fixes bug caused by race condition during handleAsyncFailure()](https://github.com/spring-projects/spring-kafka/pull/3639)
 - `spring/spring-kafka` : [GH-3807: Necessity of KafkaHandler on single method class](https://github.com/spring-projects/spring-kafka/pull/3865)
 - `spring/spring-kafka` : [GH-3869: Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/pull/3870)
-- `spring/spring-kafka`(-ing) : [GH-3067: Spring Kafka support multiple headers with same key.](https://github.com/spring-projects/spring-kafka/pull/3874)
+- `spring/spring-kafka` : [GH-3067: Spring Kafka support multiple headers with same key.](https://github.com/spring-projects/spring-kafka/pull/3874)
 - `spring/spring-kafka` : [GH-3873: Deprecate JUnit 4 utilities in the project.](https://github.com/spring-projects/spring-kafka/pull/3878)
 - `spring/spring-kafka`(-ing) : [GH-3880: The DefaultHandler resolves an incorrect value for the parameter annotated with @Header.](https://github.com/spring-projects/spring-kafka/pull/3881)
 - `spring/spring-kafka` : [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
