@@ -37,7 +37,7 @@
 - `spring/spring-kafka` : [GH-3873: Deprecate JUnit 4 utilities in the project.](https://github.com/spring-projects/spring-kafka/pull/3878)
 - `spring/spring-kafka` : [GH-3880: The DefaultHandler resolves an incorrect value for the parameter annotated with @Header.](https://github.com/spring-projects/spring-kafka/pull/3881)
 - `spring/spring-kafka` : [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
-- `spring/spring-kafka` : [GH-3879: Add cache to optimize header match performance.](https://github.com/spring-projects/spring-kafka/pull/3934)
+- `spring/spring-kafka(-ing)` : [GH-3879: Add cache to optimize header match performance.](https://github.com/spring-projects/spring-kafka/pull/3934)
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
