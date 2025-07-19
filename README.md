@@ -16,6 +16,7 @@
 - `apache/kafka` : [KAFKA-16619: Unnecessary controller warning : "Loaded ZK migration state of NONE"](https://github.com/apache/kafka/pull/15926)
 - `apache/kafka` : [KAFKA-15951: MissingSourceTopicException should include topic names](https://github.com/apache/kafka/pull/15573)
 - `apache/kafka` : [KAFKA-19242: Fix commit bugs caused by race condition during rebalancing.](https://github.com/apache/kafka/pull/19631)
+- `apache/kafka` : [KAFKA-17019: Producer TimeoutException should include root cause.](https://github.com/apache/kafka/pull/20159)
 - `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
 - `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
 - `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
