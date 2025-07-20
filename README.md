@@ -18,7 +18,7 @@ I have been consistently contributing to several opensource projects.
 ### Apache Kafka
 - [KAFKA-19242: Fix commit bugs caused by race condition during rebalancing.](https://github.com/apache/kafka/pull/19631)
 - More than [3 PRs](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Achickenchickenlove+is%3Aclosed) have been merged.
-- More than [1 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove)) are in progress.
+- More than [1 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
 
 ### Spring for Apache Kafka
 
@@ -27,13 +27,14 @@ I have been consistently contributing to several opensource projects.
 
 
 ### etc
-
-
-
-- `apache/kafka` : 
 - `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
 - `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
 - `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
+- `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
+- `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
+
+
+
 - `spring/spring-kafka` : [GH-3020: Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
 - `spring/spring-kafka` : [Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
 - `spring/spring-kafka` : [GH-2806: Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
@@ -60,8 +61,7 @@ I have been consistently contributing to several opensource projects.
 - `line/armeria`(-ing) : [Support nested context paths.](https://github.com/line/armeria/pull/5846)
 - `line/armeria` : [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
 - `line/armeria`(-ing) : [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
-- `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
-- `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
+
 
 ## Issue Contribution
 - `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
