@@ -21,12 +21,13 @@ I have been consistently contributing to several opensource projects.
 - More than [1 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
 
 ### Spring for Apache Kafka
-- `spring/spring-kafka` : [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
-- `spring/spring-kafka` : [GH-3145: Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
-- `spring/spring-kafka` : [GH-3067: Spring Kafka support multiple headers with same key.](https://github.com/spring-projects/spring-kafka/pull/3874)
-- `spring/spring-kafka` : [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
-- `spring/spring-kafka` : [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
-- `spring/spring-kafka`: [Events skipped in group rebalancing](https://github.com/spring-projects/spring-kafka/issues/3703)
+- [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
+- [GH-3145: Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
+- [GH-3067: Spring Kafka support multiple headers with same key.](https://github.com/spring-projects/spring-kafka/pull/3874)
+- [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
+- [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
+- [Events skipped in group rebalancing](https://github.com/spring-projects/spring-kafka/issues/3703)
+</br>
 
 - More than [20+ PRs](https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+is%3Aclosed+author%3Achickenchickenlove) have been merged.
 - More than [0 PRs](https://github.com/spring-projects/spring-kafka/pulls/chickenchickenlove) are in progress.
