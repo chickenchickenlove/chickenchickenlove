@@ -21,22 +21,6 @@ I have been consistently contributing to several opensource projects.
 - More than [1 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
 
 ### Spring for Apache Kafka
-
-
-### Armeria
-
-
-### etc
-- `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
-- `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
-- `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
-- `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
-- `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
-
-</br>
-Hello 
-
-
 - `spring/spring-kafka` : [GH-3020: Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
 - `spring/spring-kafka` : [Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
 - `spring/spring-kafka` : [GH-2806: Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
@@ -57,6 +41,17 @@ Hello
 - `spring/spring-kafka` : [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
 - `spring/spring-kafka` : [GH-3879: Add cache to optimize header match performance.](https://github.com/spring-projects/spring-kafka/pull/3934)
 - `spring/spring-kafka` : [GH-3542: Adds the ability to add record interceptors instead of override them](https://github.com/spring-projects/spring-kafka/pull/3937)
+
+
+- `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
+- `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
+- `spring/spring-kafka`: [Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/issues/3869)
+- `spring/spring-kafka`: [Add cache to optimize header match performance.](https://github.com/spring-projects/spring-kafka/issues/3879)
+- `spring/spring-kafka`: [The DefaultHandler resolves an incorrect value for the parameter annotated with @Header.](https://github.com/spring-projects/spring-kafka/issues/3880)
+- `spring/spring-kafka`: [Events skipped in group rebalancing](https://github.com/spring-projects/spring-kafka/issues/3703)
+
+
+### Armeria
 - `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
@@ -65,13 +60,25 @@ Hello
 - `line/armeria`(-ing) : [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
 
 
+
+
+### etc
+- `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
+- `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
+- `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
+- `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
+- `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
+
+</br>
+Hello 
+
+
+
+
+
+
 ## Issue Contribution
-- `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
-- `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
-- `spring/spring-kafka`: [Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/issues/3869)
-- `spring/spring-kafka`: [Add cache to optimize header match performance.](https://github.com/spring-projects/spring-kafka/issues/3879)
-- `spring/spring-kafka`: [The DefaultHandler resolves an incorrect value for the parameter annotated with @Header.](https://github.com/spring-projects/spring-kafka/issues/3880)
-- `spring/spring-kafka`: [Events skipped in group rebalancing](https://github.com/spring-projects/spring-kafka/issues/3703)
+
 
 
 ## Learn by implementing
