@@ -20,6 +20,8 @@ I have been consistently contributing to several opensource projects.
 - More than [3 PRs](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Achickenchickenlove+is%3Aclosed) have been merged.
 - More than [1 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
 
+</br>
+
 ### Spring for Apache Kafka
 - [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
 - [GH-3145: Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
@@ -27,21 +29,20 @@ I have been consistently contributing to several opensource projects.
 - [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
 - [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
 - [Events skipped in group rebalancing](https://github.com/spring-projects/spring-kafka/issues/3703)
-</br>
-
 - More than [20+ PRs](https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+is%3Aclosed+author%3Achickenchickenlove) have been merged.
 - More than [0 PRs](https://github.com/spring-projects/spring-kafka/pulls/chickenchickenlove) are in progress.
-- More than [5 issues](https://github.com/spring-projects/spring-kafka/issues?q=is%3Aissue%20state%3Aclosed%20author%3Achickenchickenlove) have been issued. 
+- More than [5 issues](https://github.com/spring-projects/spring-kafka/issues?q=is%3Aissue%20state%3Aclosed%20author%3Achickenchickenlove) have been issued.
+</br>
 
 
 ### Armeria
-- `line/armeria` : [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
-- `line/armeria` : [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
-- `line/armeria` : [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
-- `line/armeria`(-ing) : [Support nested context paths.](https://github.com/line/armeria/pull/5846)
-- `line/armeria` : [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
-- `line/armeria`(-ing) : [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
-
+- [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
+- [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
+- [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
+- [Support nested context paths.](https://github.com/line/armeria/pull/5846)
+- [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
+- [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
+</br>
 
 ### etc
 - `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
@@ -51,16 +52,6 @@ I have been consistently contributing to several opensource projects.
 - `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
 
 </br>
-Hello 
-
-
-
-
-
-
-## Issue Contribution
-
-
 
 ## Learn by implementing
 - Implement an HTTP/HTTP2 Server with a TCP Server (`python`) : https://github.com/chickenchickenlove/implment-http-client/tree/main/http_2
