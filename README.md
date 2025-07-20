@@ -21,34 +21,16 @@ I have been consistently contributing to several opensource projects.
 - More than [1 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
 
 ### Spring for Apache Kafka
-- `spring/spring-kafka` : [GH-3020: Create topology before kafka streams start.](https://github.com/spring-projects/spring-kafka/pull/3172)
-- `spring/spring-kafka` : [Fix ackDiscarded](https://github.com/spring-projects/spring-kafka/pull/3212) 
-- `spring/spring-kafka` : [GH-2806: Receiving an empty list when using RecordFilterStrategy on batch messages](https://github.com/spring-projects/spring-kafka/pull/3216)
-- `spring/spring-kafka` : [GH-3145: Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
-- `spring/spring-kafka` (-ing) : [GH-2381: Support kafka parallel-consumer](https://github.com/spring-projects/spring-kafka/pull/3161)
-- `spring/spring-kafka` : [Internal Refactoring to improve code readability.](https://github.com/spring-projects/spring-kafka/pull/3422)
-- `spring/spring-kafka` : [Removed dead code from test codes.](https://github.com/spring-projects/spring-kafka/pull/3545)
 - `spring/spring-kafka` : [GH-3276: Support async retry with @RetryableTopic](https://github.com/spring-projects/spring-kafka/pull/3523)
-- `spring/spring-kafka` : [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
-- `spring/spring-kafka` : [No Issue : Refactor test codes and Remove useless full package name.](https://github.com/spring-projects/spring-kafka/pull/3551)
-- `spring/spring-kafka` : [Fix flaky tests in async retry by using a latch instead of sleep.](https://github.com/spring-projects/spring-kafka/pull/3563)
-- `spring/spring-kafka` : [GH-3638: Fixes bug caused by race condition during handleAsyncFailure()](https://github.com/spring-projects/spring-kafka/pull/3639)
-- `spring/spring-kafka` : [GH-3807: Necessity of KafkaHandler on single method class](https://github.com/spring-projects/spring-kafka/pull/3865)
-- `spring/spring-kafka` : [GH-3869: Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/pull/3870)
+- `spring/spring-kafka` : [GH-3145: Add test for next generation consumer-group rebalance protocol](https://github.com/spring-projects/spring-kafka/pull/3237)
 - `spring/spring-kafka` : [GH-3067: Spring Kafka support multiple headers with same key.](https://github.com/spring-projects/spring-kafka/pull/3874)
-- `spring/spring-kafka` : [GH-3873: Deprecate JUnit 4 utilities in the project.](https://github.com/spring-projects/spring-kafka/pull/3878)
-- `spring/spring-kafka` : [GH-3880: The DefaultHandler resolves an incorrect value for the parameter annotated with @Header.](https://github.com/spring-projects/spring-kafka/pull/3881)
+- `spring/spring-kafka` : [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
 - `spring/spring-kafka` : [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
-- `spring/spring-kafka` : [GH-3879: Add cache to optimize header match performance.](https://github.com/spring-projects/spring-kafka/pull/3934)
-- `spring/spring-kafka` : [GH-3542: Adds the ability to add record interceptors instead of override them](https://github.com/spring-projects/spring-kafka/pull/3937)
-
-
-- `spring/spring-kafka`: [Improving Observability in Asynchronous Processing (CompletableFuture, Mono)](https://github.com/spring-projects/spring-kafka/issues/3528)
-- `spring/spring-kafka`: [addRetryableExceptions has no effect when called on the DefaultErrorHandler](https://github.com/spring-projects/spring-kafka/issues/3621)
-- `spring/spring-kafka`: [Should fail bean registration when no method listeners are registered.](https://github.com/spring-projects/spring-kafka/issues/3869)
-- `spring/spring-kafka`: [Add cache to optimize header match performance.](https://github.com/spring-projects/spring-kafka/issues/3879)
-- `spring/spring-kafka`: [The DefaultHandler resolves an incorrect value for the parameter annotated with @Header.](https://github.com/spring-projects/spring-kafka/issues/3880)
 - `spring/spring-kafka`: [Events skipped in group rebalancing](https://github.com/spring-projects/spring-kafka/issues/3703)
+
+- More than [20+ PRs](https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+is%3Aclosed+author%3Achickenchickenlove) have been merged.
+- More than [0 PRs](https://github.com/spring-projects/spring-kafka/pulls/chickenchickenlove) are in progress.
+- More than [5 issues](https://github.com/spring-projects/spring-kafka/issues?q=is%3Aissue%20state%3Aclosed%20author%3Achickenchickenlove) have been issued. 
 
 
 ### Armeria
@@ -58,8 +40,6 @@ I have been consistently contributing to several opensource projects.
 - `line/armeria`(-ing) : [Support nested context paths.](https://github.com/line/armeria/pull/5846)
 - `line/armeria` : [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
 - `line/armeria`(-ing) : [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
-
-
 
 
 ### etc
