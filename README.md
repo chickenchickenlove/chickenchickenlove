@@ -13,8 +13,24 @@
   ```
 
 ## Open Source Contribution
-- `apache/kafka` : [KAFKA-19242: Fix commit bugs caused by race condition during rebalancing.](https://github.com/apache/kafka/pull/19631)
-- `apache/kafka` : [More than 3PRs ](https://github.com/apache/kafka/pulls?q=is%3Apr+is%3Aclosed+author%3Achickenchickenlove)
+I have been consistently contributing to several opensource projects.
+
+### Apache Kafka
+- [KAFKA-19242: Fix commit bugs caused by race condition during rebalancing.](https://github.com/apache/kafka/pull/19631)
+- [More than 3PRs have been merged.](https://github.com/apache/kafka/pulls?q=is%3Apr+is%3Aclosed+author%3Achickenchickenlove)
+- [More than 1PRs are in progress ](https://github.com/apache/kafka/pulls/chickenchickenlove)
+
+### Spring for Apache Kafka
+
+
+### Armeria
+
+
+### etc
+
+
+
+- `apache/kafka` : 
 - `kiali.io/kiali` : [kiali documentation](https://github.com/kiali/kiali.io/pull/765)
 - `micrometer-metrics/context-propagation` : [micrometer-metrics/context-propagation documentation](https://github.com/micrometer-metrics/context-propagation/pull/223)
 - `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
