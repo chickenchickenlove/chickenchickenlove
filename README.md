@@ -19,7 +19,6 @@ I have been consistently contributing to several opensource projects.
 - [KAFKA-19242: Fix commit bugs caused by race condition during rebalancing.](https://github.com/apache/kafka/pull/19631)
 - More than [3 PRs](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Achickenchickenlove+is%3Aclosed) have been merged.
 - More than [1 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
-
 </br>
 
 ### Spring for Apache Kafka
@@ -33,7 +32,6 @@ I have been consistently contributing to several opensource projects.
 - More than [0 PRs](https://github.com/spring-projects/spring-kafka/pulls/chickenchickenlove) are in progress.
 - More than [5 issues](https://github.com/spring-projects/spring-kafka/issues?q=is%3Aissue%20state%3Aclosed%20author%3Achickenchickenlove) have been issued.
 </br>
-
 
 ### Armeria
 - [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
@@ -50,15 +48,14 @@ I have been consistently contributing to several opensource projects.
 - `reactor/reactor:core` : [wrapped with await().untilAsserted](https://github.com/reactor/reactor-core/pull/3779).
 - `line/centraldogma` : [Add @ConsumseJson to contents API. ](https://github.com/line/centraldogma/pull/999)
 - `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
-
 </br>
 
 ## Learn by implementing
-- Implement an HTTP/HTTP2 Server with a TCP Server (`python`) : https://github.com/chickenchickenlove/implment-http-client/tree/main/http_2
-- Implement SWIM Protocol (`erlang`) : https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/swim-portocol-implementation
-- Implement HyParView Protocol (`erlang`) : https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hybrid-partial-view-protocol-implementation
-- Implement Plumtree Protocol (`erlang`) : https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hyparview_and_plumtree_implementation
-- Implement RAFT Consensus algorithm (`erlang`) : https://github.com/chickenchickenlove/implement_raft_consensus
+- [Implement an HTTP/HTTP2 Server with a TCP Server](https://github.com/chickenchickenlove/implment-http-client/tree/main/http_2) 
+- [Implement SWIM Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/swim-portocol-implementation)
+- [Implement HyParView Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hybrid-partial-view-protocol-implementation)
+- [Implement Plumtree Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hyparview_and_plumtree_implementation)
+- [Implement RAFT Consensus algorithm](https://github.com/chickenchickenlove/implement_raft_consensus)
 
 ## Skills
 
