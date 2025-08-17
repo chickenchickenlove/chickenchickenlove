@@ -18,7 +18,7 @@ I have been consistently contributing to several opensource projects.
 ### Apache Kafka
 - [KAFKA-19242: Fix commit bugs caused by race condition during rebalancing.](https://github.com/apache/kafka/pull/19631)
 - More than [3 PRs](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Achickenchickenlove+is%3Aclosed) have been merged.
-- More than [1 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
+- More than [2 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
 </br>
 
 ### Spring for Apache Kafka
