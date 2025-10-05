@@ -122,7 +122,7 @@ public class ConfigurationForMe {
 
     @Bean
     public Me me() {
-        final Set<String> languages = Set.of("Java", "Python", "erlang");
+        final Set<String> languages = Set.of("Java", "Python", "erlang", "rust");
         final Set<String> springEcoSystem = Set.of("Spring Boot", "Spring MVC", "Spring Security", "Spring Batch", "Spring Data JPA");
         final Set<String> databases = Set.of("MySQL");
         final Set<String> display = Set.of("thymeleaf", "tailwind-css");
