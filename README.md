@@ -34,12 +34,11 @@ I have been consistently contributing to several opensource projects.
 </br>
 
 ### Armeria
-- [Make AnnotatedService public](https://github.com/line/armeria/pull/5628)
 - [Implement @Attribute Injection](https://github.com/line/armeria/pull/5547)
 - [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
 - [Support nested context paths.](https://github.com/line/armeria/pull/5846)
 - [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
-- [Make ClientRequestContext.authority() and host() return non-null ](https://github.com/line/armeria/pull/5969)
+- More than [9+ PRs](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Achickenchickenlove) have been merged or are in progress.
 </br>
 
 ### etc
