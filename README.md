@@ -1,16 +1,28 @@
-# ⚡**TECH STACK**⚡
 <div align="left">
   
-
-
 ## 👋 ChickenChickenLove 
+I'm not good at coding,
+Because, I'm still learning.
+
+
   ```python
   # I like these sentences.
   Little more than before.
+  He who dreams for a long time resembles his dream.
   If you are afraid of falling, there is no chance to fly.
   Show and prove.
   Never assume anything.
   ```
+
+## Learn by implementing
+Sometimes, implementing something is the best way to learn it.
+- [Implement an HTTP/HTTP2 Server with a TCP Server(In Python)](https://github.com/chickenchickenlove/implment-http-client/tree/main/http_2)
+- [Implement an HTTP/HTTP2 Server with a TCP Server (In Rust)](https://github.com/chickenchickenlove/my-http-rust-server)
+- [Implement SWIM Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/swim-portocol-implementation)
+- [Implement HyParView Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hybrid-partial-view-protocol-implementation)
+- [Implement Plumtree Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hyparview_and_plumtree_implementation)
+- [Implement RAFT Consensus algorithm](https://github.com/chickenchickenlove/implement_raft_consensus)
+
 
 ## Open Source Contribution
 I have been consistently contributing to several opensource projects.
@@ -49,12 +61,6 @@ I have been consistently contributing to several opensource projects.
 - `line/centraldogma-python` : [Bug fix from get_files method. ](https://github.com/line/centraldogma-python/pull/58)
 </br>
 
-## Learn by implementing
-- [Implement an HTTP/HTTP2 Server with a TCP Server](https://github.com/chickenchickenlove/implment-http-client/tree/main/http_2) 
-- [Implement SWIM Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/swim-portocol-implementation)
-- [Implement HyParView Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hybrid-partial-view-protocol-implementation)
-- [Implement Plumtree Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hyparview_and_plumtree_implementation)
-- [Implement RAFT Consensus algorithm](https://github.com/chickenchickenlove/implement_raft_consensus)
 
 ## Skills
 
