@@ -29,8 +29,9 @@ I have been consistently contributing to several opensource projects.
 
 ### Apache Kafka
 - [KAFKA-19242: Fix commit bugs caused by race condition during rebalancing.](https://github.com/apache/kafka/pull/19631)
-- More than [3 PRs](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Achickenchickenlove+is%3Aclosed) have been merged.
-- More than [2 PRs](https://github.com/apache/kafka/pulls/chickenchickenlove) are in progress.
+- [PRs I implemented](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Achickenchickenlove)
+- [PRs I reviewed](https://github.com/apache/kafka/pulls?q=is%3Apr+-author%3A%40me+commenter%3Achickenchickenlove+)
+
 </br>
 
 ### Spring for Apache Kafka
@@ -40,8 +41,7 @@ I have been consistently contributing to several opensource projects.
 - [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
 - [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
 - [Events skipped in group rebalancing](https://github.com/spring-projects/spring-kafka/issues/3703)
-- More than [20+ PRs](https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+is%3Aclosed+author%3Achickenchickenlove) have been merged.
-- More than [0 PRs](https://github.com/spring-projects/spring-kafka/pulls/chickenchickenlove) are in progress.
+- [PRs I implemented](https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+author%3Achickenchickenlove+)
 - More than [5 issues](https://github.com/spring-projects/spring-kafka/issues?q=is%3Aissue%20state%3Aclosed%20author%3Achickenchickenlove) have been issued.
 </br>
 
@@ -50,7 +50,7 @@ I have been consistently contributing to several opensource projects.
 - [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
 - [Support nested context paths.](https://github.com/line/armeria/pull/5846)
 - [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
-- More than [9+ PRs](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Achickenchickenlove) have been merged or are in progress.
+- [PRs I implemented](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Achickenchickenlove)
 </br>
 
 ### etc
