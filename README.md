@@ -16,7 +16,7 @@ Because, I'm still learning.
 
 ## Learn by implementing
 Sometimes, implementing something is the best way to learn it.
-- [Implement an HTTP/HTTP2 Server with a TCP Server(In Python)](https://github.com/chickenchickenlove/implment-http-client/tree/main/http_2)
+- [Implement an HTTP/HTTP2 Server with a TCP Server (In Python)](https://github.com/chickenchickenlove/implment-http-client/tree/main/http_2)
 - [Implement an HTTP/HTTP2 Server with a TCP Server (In Rust)](https://github.com/chickenchickenlove/my-http-rust-server)
 - [Implement SWIM Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/swim-portocol-implementation)
 - [Implement HyParView Protocol](https://github.com/chickenchickenlove/implement_membership_protocol/tree/main/hybrid-partial-view-protocol-implementation)
@@ -29,8 +29,8 @@ I have been consistently contributing to several opensource projects.
 
 ### Apache Kafka
 - [KAFKA-19242: Fix commit bugs caused by race condition during rebalancing.](https://github.com/apache/kafka/pull/19631)
-- [PRs I implemented](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Achickenchickenlove)
-- [PRs I reviewed](https://github.com/apache/kafka/pulls?q=is%3Apr+-author%3A%40me+commenter%3Achickenchickenlove+)
+- [PRs I implemented are available here](https://github.com/apache/kafka/pulls?q=is%3Apr+author%3Achickenchickenlove)
+- [PRs I reviewed are available here](https://github.com/apache/kafka/pulls?q=is%3Apr+-author%3A%40me+commenter%3Achickenchickenlove+)
 
 </br>
 
@@ -41,7 +41,7 @@ I have been consistently contributing to several opensource projects.
 - [GH-3407: Support KafkaHeaders.DELIVERY_ATTEMPT for batch listeners](https://github.com/spring-projects/spring-kafka/pull/3539)
 - [GH-3712: Make ContainerPausingBackOffHandler working in batch mode.](https://github.com/spring-projects/spring-kafka/pull/3885)
 - [Events skipped in group rebalancing](https://github.com/spring-projects/spring-kafka/issues/3703)
-- [PRs I implemented](https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+author%3Achickenchickenlove+)
+- [PRs I implemented are available here](https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+author%3Achickenchickenlove+)
 - More than [5 issues](https://github.com/spring-projects/spring-kafka/issues?q=is%3Aissue%20state%3Aclosed%20author%3Achickenchickenlove) have been issued.
 </br>
 
@@ -50,7 +50,7 @@ I have been consistently contributing to several opensource projects.
 - [Support micrometer context-propagation](https://github.com/line/armeria/pull/5577)
 - [Support nested context paths.](https://github.com/line/armeria/pull/5846)
 - [Respect TTL of a DNS record for proxy config](https://github.com/line/armeria/pull/5960)
-- [PRs I implemented](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Achickenchickenlove)
+- [PRs I implemented are available here](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Achickenchickenlove)
 </br>
 
 ### etc
